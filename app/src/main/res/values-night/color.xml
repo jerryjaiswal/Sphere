@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#ffffff</color>
+    <color name="white">#31373C</color>
+    <color name="primaryColor">#000000</color>
+    <color name="searchButton">@color/white</color>
+    <color name="searchIconColor">#ffffff</color>
+    <color name="backgroundColor">#353A3F</color>
+
+</resources>
